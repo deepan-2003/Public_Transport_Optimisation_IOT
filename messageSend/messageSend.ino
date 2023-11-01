@@ -3,7 +3,7 @@
 #include <SoftwareSerial.h>
 SoftwareSerial Gsm(7, 8);
 TinyGPS gps;  //Creates a new instance of the TinyGPS object
-
+//This is a comment 
 void setup()
 
 {
